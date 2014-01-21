@@ -9,5 +9,5 @@ CIE color spaces.
 
 Reference
 ---------
-http://en.wikipedia.org/wiki/Color_space
-http://www.pbrt.org
+* http://en.wikipedia.org/wiki/Color_space
+* http://www.pbrt.org
